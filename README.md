@@ -1,7 +1,4 @@
 ## Hi there 👋
-
-## 📊 GitHub Stats
-
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuu-1230&theme=gruvbox" />
 </p>
